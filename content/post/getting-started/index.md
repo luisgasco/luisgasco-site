@@ -1,9 +1,9 @@
 ---
-title: Welcome to Wowchemy, the website builder for Hugo
-subtitle: Welcome 👋 We know that first impressions are important, so we've populated your new site with some initial content to help you get familiar with everything in no time.
+title: El desarrollo de las tecnologías del lenguaje para el futuro de la sanidad
+subtitle: El Poder del Lenguaje. Cómo la Inteligencia Artificial Está Revolucionando la Salud
 
 # Summary for listings and search engines
-summary: Welcome 👋 We know that first impressions are important, so we've populated your new site with some initial content to help you get familiar with everything in no time.
+summary:  El Poder del Lenguaje.Cómo la Inteligencia Artificial Está Revolucionando la Salud
 
 # Link this post with a project
 projects: []

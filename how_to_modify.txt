@@ -1,0 +1,8 @@
+Accede desde powershell.
+   - La primera vez ejecuta:
+    ~\scoop\apps\git\2.42.0.2\7zip.log
+    scoop install git go hugo-extended nodejs
+Ve a la ruta de la web
+Ejecuta Hugo Server
+
+
