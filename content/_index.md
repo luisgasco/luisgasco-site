@@ -297,7 +297,7 @@ sections:
       title: Contact
       subtitle:
       text: |-
-        Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nam mi diam, venenatis ut magna et, vehicula efficitur enim.
+        Please write me here. If you want me to answer you quickly, contact me on Linkedin or Twitter!
       # Contact (add or remove contact options as necessary)
       #appointment_url: 'https://calendly.com'
 
