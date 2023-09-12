@@ -79,7 +79,7 @@ social:
   # and uncomment the lines below.
   - icon: cv
     icon_pack: ai
-    link: uploads/resume.pdf
+    link: uploads/cv_full.pdf
 
 # Enter email to display Gravatar (if Gravatar enabled in Config)
 email: ''
@@ -87,5 +87,7 @@ email: ''
 # Highlight the author in author lists? (true/false)
 highlight_name: true
 ---
-Luis Gasco is a Research Engineer at the NLP4BIA Research Group from Barcelona Supercomputing Center. His research interests include NLP techniques, Entity Linking and LLMs. 
+Luis Gasco is a Research Engineer at the [NLP4BIA Research Group](https://www.bsc.es/discover-bsc/organisation/research-departments/nlp-biomedical-information-analysis) from Barcelona Supercomputing Center. His research interests encompass a multidisciplinary approach, where he explores Natural Language Processing (NLP) techniques, Entity Linking, and Large Language Models (LLMs) applied to the fields of **healthcare**, **environmental studies**, and **urban management**. He received the Outstanding Doctoral Thesis Award from UPM, was recognized as the Best Young Researcher at Internoise 2019, and delivered the best doctoral presentation at the "Tell Your Thesis in 4 minutes" symposium. He was one of the ten doctoral students selected to join the EIT Digital Doctoral School in Spain's 2020 cohort, where he received training in innovation management and technology transfer. Additionally, he conducted research visits at Telecom Paris and the renowned Nokia Bell Labs in Cambridge (UK). His ongoing projects include the [DataTools4Heart](https://www.datatools4heart.eu/) Horizon Europe project, [biomatdb](https://biomatdb.eu/), AI4Hearh, and [PlanTL](https://plantl.mineco.gob.es/Paginas/index.aspx).
+
+
 {style="text-align: justify;"}
