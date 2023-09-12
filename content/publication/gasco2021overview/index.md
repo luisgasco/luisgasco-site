@@ -29,7 +29,13 @@ abstract: "There is a pressing need to exploit recent advances in natural langua
 # Summary. An optional shortened abstract.
 
 tags:
-- Source Themes
+- NLP
+- Information Retrieval
+- Entity Linking
+- Health
+- Gold Standard
+- COVID
+
 featured: false
 
 url_pdf: 'https://ceur-ws.org/Vol-2936/paper-11.pdf'

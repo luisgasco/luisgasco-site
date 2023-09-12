@@ -29,7 +29,15 @@ abstract: "Noise is considered the second factor after air pollution to impact c
 summary: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere tellus ac convallis placerat. Proin tincidunt magna sed ex sollicitudin condimentum.
 
 tags:
-- Source Themes
+- Social Media
+- Machine Learning
+- Data Science
+- Geospatial
+- Health
+- Acoustics
+- Cities
+- Environment
+
 featured: true
 
 url_pdf: 'https://www.frontiersin.org/articles/10.3389/frsc.2020.00041/full'

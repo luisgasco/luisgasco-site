@@ -29,7 +29,12 @@ abstract: "There is a pressing need to exploit health-related content from socia
 # Summary. An optional shortened abstract.
 
 tags:
-- Source Themes
+- NLP
+- Social Media
+- Health
+- Gold Standard
+
+
 featured: false
 
 url_pdf: 'https://aclanthology.org/2022.smm4h-1.48.pdf'

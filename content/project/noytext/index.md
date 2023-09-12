@@ -1,9 +1,11 @@
 ---
 title: Noytext
-summary: An example of using the in-built project page.
+summary: An applitation to facilitate annotation of short texts
 tags:
   - Annotation
-date: '2016-04-27T00:00:00Z'
+  - Gold Standard
+
+date: '2019-04-27T00:00:00Z'
 
 # Optional external URL for project (replaces project detail page).
 external_link: ''

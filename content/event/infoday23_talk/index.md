@@ -18,13 +18,13 @@ all_day: true
 # Schedule page publish date (NOT talk date).
 
 authors: [admin]
-tags: []
+tags: ["workshop"]
 
 # Is this a featured talk? (true/false)
 featured: false
 
 image:
-  caption: 'Image credit: [**Unsplash**](https://unsplash.com/photos/bzdhc5b3Bxs)'
+  caption: ''
   focal_point: Right
 
 
@@ -44,6 +44,5 @@ url_video: 'https://www.youtube.com/watch?v=GZhxvDLyZpw&t=1936s'
 #   Simply enter your project's folder or file name without extension.
 #   E.g. `projects = ["internal-project"]` references `content/project/deep-learning/index.md`.
 #   Otherwise, set `projects = []`.
-projects:
-  - example
+
 ---

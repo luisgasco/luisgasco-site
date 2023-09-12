@@ -31,7 +31,12 @@ abstract: "Detection of occupations in texts is relevant for a range of importan
 summary: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere tellus ac convallis placerat. Proin tincidunt magna sed ex sollicitudin condimentum.
 
 tags:
-- Source Themes
+- NLP
+- Entity Linking
+- Health
+- Gold Standard
+- COVID
+
 featured: false
 
 

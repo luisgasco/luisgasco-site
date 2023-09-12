@@ -29,7 +29,13 @@ abstract: 'The tenth version of the BioASQ Challenge will be held as an evaluati
 
 
 tags:
-- Source Themes
+- NLP
+- Question Answering
+- Information Retrieval
+- Entity Linking
+- Health
+- Gold Standard
+  
 featured: false
 
 url_pdf: 'https://link.springer.com/chapter/10.1007/978-3-030-99739-7_53'

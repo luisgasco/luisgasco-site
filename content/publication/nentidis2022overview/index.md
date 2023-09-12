@@ -31,7 +31,13 @@ abstract: This paper presents an overview of the tenth edition of the BioASQ cha
 # Summary. An optional shortened abstract.
 
 tags:
-- Source Themes
+- NLP
+- Question Answering
+- Information Retrieval
+- Entity Linking
+- Health
+- Gold Standard
+  
 featured: false
 
 url_pdf: 'https://link.springer.com/chapter/10.1007/978-3-031-13643-6_22'

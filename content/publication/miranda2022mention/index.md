@@ -29,7 +29,12 @@ abstract: "There is a pressing need to generate tools for finding mentions of sp
 # Summary. An optional shortened abstract.
 
 tags:
-- Source Themes
+- NLP
+- Entity Linking
+- Health
+- Gold Standard
+- Multilingual NLP
+ 
 featured: false
 
 url_pdf: 'http://journal.sepln.org/sepln/ojs/ojs/index.php/pln/article/view/6444'

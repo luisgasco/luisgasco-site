@@ -217,6 +217,7 @@ sections:
  #     columns: '2'
  #     view: list
   - block: collection
+    id: featured
     content:
       title: Recent Publications
       text: |-
@@ -226,7 +227,7 @@ sections:
       filters:
         folders:
           - publication
-        exclude_featured: true
+        exclude_featured: false
     design:
       columns: '2'
       view: citation
@@ -235,12 +236,17 @@ sections:
     id: talks
     content:
       title: Recent & Upcoming Talks
+      text: |-
+        {{% callout note %}}
+        Quickly discover relevant content by [filtering talks](./event/).
+        {{% /callout %}}
       filters:
         folders:
           - event
     design:
       columns: '2'
       view: compact
+    
   - block: tag_cloud
     content:
       title: Popular Topics

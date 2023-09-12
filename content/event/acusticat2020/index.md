@@ -40,6 +40,5 @@ url_video: 'https://www.youtube.com/watch?v=Tk1FIPkrpKo&t=4440s'
 #   Simply enter your project's folder or file name without extension.
 #   E.g. `projects = ["internal-project"]` references `content/project/deep-learning/index.md`.
 #   Otherwise, set `projects = []`.
-projects:
-  - example
+
 ---

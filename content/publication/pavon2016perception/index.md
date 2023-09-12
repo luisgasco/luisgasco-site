@@ -28,7 +28,7 @@ abstract: "La exposición al ruido en el puesto de trabajo y la pérdida auditiv
 
 
 tags:
-- Source Themes
+- Noise
 featured: false
 
 

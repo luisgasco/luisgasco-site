@@ -3,7 +3,7 @@ title: Open Noise Monitoring Network
 summary: An innitiative to unify the collection of noise monitoring data
 tags:
   - Other
-date: '2016-04-27T00:00:00Z'
+date: '2020-04-27T00:00:00Z'
 
 # Optional external URL for project (replaces project detail page).
 external_link: 'https://onmn.org/'

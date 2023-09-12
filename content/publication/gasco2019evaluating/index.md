@@ -30,7 +30,14 @@ events, as well as the reason why those events caused annoyance to population."
 # Summary. An optional shortened abstract.
 
 tags:
-- Source Themes
+- Social Media
+- Text Mining
+- Machine Learning
+- Data Science
+- Acoustics
+- Cities
+- Environment
+
 featured: false
 
 url_pdf: 'https://www.sea-acustica.es/INTERNOISE_2019/Fchrs/Proceedings/1410.pdf'

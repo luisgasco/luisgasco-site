@@ -3,8 +3,9 @@ title: REECapi
 summary: This package provides a list of functions to facilitate access to the data offered by Registro Español de Estudios Clínicos in its REST API.
 tags:
   - Library
+  - API
 
-date: '2020-04-27T00:00:00Z'
+date: '2021-04-27T00:00:00Z'
 
 # Optional external URL for project (replaces project detail page).
 external_link: ''

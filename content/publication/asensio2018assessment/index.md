@@ -28,7 +28,10 @@ abstract: "Leisure noise is a continual source of complaints from residents of a
 # Summary. An optional shortened abstract.
 
 tags:
-- Source Themes
+- Acoustics
+- Cities
+- Environment
+
 featured: false
 
 url_pdf: 'https://www.mdpi.com/2076-3298/5/12/134'

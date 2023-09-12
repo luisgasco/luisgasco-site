@@ -4,7 +4,9 @@ summary: A framework with resources for the normalization of clinical entities t
 tags:
   - AI
   - Library
-date: '2016-04-27T00:00:00Z'
+  - Deep Learning
+  
+date: '2023-04-27T00:00:00Z'
 
 # Optional external URL for project (replaces project detail page).
 external_link: ''

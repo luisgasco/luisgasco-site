@@ -31,7 +31,13 @@ abstract: This is an overview of the eleventh edition of the BioASQ challenge in
 # Summary. An optional shortened abstract.
 
 tags:
-- Source Themes
+- NLP
+- Question Answering
+- Information Retrieval
+- Entity Linking
+- Health
+
+
 featured: false
 
 url_pdf: 'https://arxiv.org/pdf/2307.05131.pdf'

@@ -23,7 +23,7 @@ all_day: true
 publishDate: '2017-01-01T00:00:00Z'
 
 authors: [admin]
-tags: []
+tags: ["workshop"]
 
 # Is this a featured talk? (true/false)
 featured: false
@@ -48,7 +48,6 @@ url_video: ''
 #   Simply enter your project's folder or file name without extension.
 #   E.g. `projects = ["internal-project"]` references `content/project/deep-learning/index.md`.
 #   Otherwise, set `projects = []`.
-projects:
-  - example
+
 ---
 

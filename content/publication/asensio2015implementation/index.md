@@ -28,7 +28,9 @@ abstract: 'This paper describes a methodology and case study for the implementat
 summary: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere tellus ac convallis placerat. Proin tincidunt magna sed ex sollicitudin condimentum.
 
 tags:
-- Source Themes
+- Acoustics
+- Tool
+
 featured: false
 
 

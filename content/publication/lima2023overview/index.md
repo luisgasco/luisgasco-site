@@ -31,7 +31,11 @@ abstract: "Recent advances in NLP techniques, the use of large language models a
 # Summary. An optional shortened abstract.
 
 tags:
-- Source Themes
+- NLP
+- Entity Linking
+- Health
+- Gold Standard
+- Multilingual NLP
 featured: true
 
 url_pdf: 'https://www.dei.unipd.it/~faggioli/temp/CLEF2023-proceedings/paper-002.pdf'

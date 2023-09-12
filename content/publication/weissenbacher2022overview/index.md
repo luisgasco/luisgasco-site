@@ -38,7 +38,9 @@ abstract: 'For the past seven years, the Social Media Mining for Health Applicat
 
 
 tags:
-- Source Themes
+- Social Media
+- NLP
+- Health
 featured: false
 
 url_pdf: 'https://aclanthology.org/2022.smm4h-1.54/'

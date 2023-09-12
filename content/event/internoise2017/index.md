@@ -21,8 +21,8 @@ all_day: true
 # Schedule page publish date (NOT talk date).
 publishDate: '2017-08-30T00:00:00Z'
 
-authors: []
-tags: []
+authors: [admin]
+tags: ["conference"]
 
 # Is this a featured talk? (true/false)
 featured: false
@@ -48,6 +48,5 @@ url_video: ''
 #   Simply enter your project's folder or file name without extension.
 #   E.g. `projects = ["internal-project"]` references `content/project/deep-learning/index.md`.
 #   Otherwise, set `projects = []`.
-projects:
-  - example
+
 ---

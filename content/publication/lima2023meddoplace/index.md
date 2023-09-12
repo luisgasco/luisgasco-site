@@ -29,7 +29,13 @@ abstract: "We present the MEDDOPLACE task, the first initiative addressing the a
 # Summary. An optional shortened abstract.
 
 tags:
-- Source Themes
+- NLP
+- Entity Linking
+- Health
+- Gold Standard
+- Multilingual NLP
+- Geospatial
+
 featured: false
 
 url_pdf: 'http://journal.sepln.org/sepln/ojs/ojs/index.php/pln/article/view/6561'

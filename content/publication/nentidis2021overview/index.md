@@ -30,7 +30,12 @@ abstract: 'Advancing the state-of-the-art in large-scale biomedical semantic ind
 # Summary. An optional shortened abstract.
 
 tags:
-- Source Themes
+- NLP
+- Question Answering
+- Information Retrieval
+- Entity Linking
+- Health
+  
 featured: true
 
 url_pdf: 'https://link.springer.com/chapter/10.1007/978-3-030-85251-1_18'

@@ -34,7 +34,11 @@ abstract: "Many countries around the world have chosen lockdown and restrictions
 # Summary. An optional shortened abstract.
 
 tags:
-- Source Themes
+- Information Retrieval
+- Acoustics
+- Environment
+- COVID
+
 featured: true
 
 url_pdf: 'https://www.mdpi.com/1660-4601/17/12/4205'

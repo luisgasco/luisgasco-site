@@ -27,7 +27,14 @@ abstract: "Boost of online social networks has demonstrated that some people are
 # Summary. An optional shortened abstract.
 
 tags:
-- Source Themes
+- Social Media
+- Machine Learning
+- Text Mining
+- Acoustics
+- Cities
+- Environment
+- Annotation tool
+  
 featured: false
 
 url_pdf: 'https://www.sea-acustica.es/INTERNOISE_2019/Fchrs/Proceedings/1411.pdf'

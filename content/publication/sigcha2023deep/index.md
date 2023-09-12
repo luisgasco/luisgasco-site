@@ -30,7 +30,10 @@ abstract: "Parkinson’s disease (PD) is a neurodegenerative disorder that produ
 
 
 tags:
-- Source Themes
+- Deep Learning
+- Health
+  
+
 featured: false
 
 url_pdf: 'https://www.sciencedirect.com/science/article/pii/S0957417423010436'

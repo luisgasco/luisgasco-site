@@ -28,7 +28,8 @@ abstract: 'Workplace noise exposure and noise-induced hearing loss are closely r
 
 
 tags:
-- Source Themes
+- Acoustics
+  
 featured: false
 
 url_pdf: 'http://ndl.ethernet.edu.et/bitstream/123456789/46178/1/pdf.42#page=504'

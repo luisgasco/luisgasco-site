@@ -3,7 +3,8 @@ title: OpenSkyR
 summary: A R package that provides a list of functions to facilitate access to the data offered by OpenSky-Network..
 tags:
   - Library
-date: "2016-04-27T00:00:00Z"
+  - API
+date: "2020-04-27T00:00:00Z"
 
 # Optional external URL for project (replaces project detail page).
 external_link: https://github.com/luisgasco/openskyr/tree/master

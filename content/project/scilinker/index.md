@@ -3,6 +3,7 @@ title: SciLinker
 summary: An app to assist the creation of entity linking corpora .
 tags:
   - Annotation
+  - Gold Standard
 
 date: '2023-04-27T00:00:00Z'
 

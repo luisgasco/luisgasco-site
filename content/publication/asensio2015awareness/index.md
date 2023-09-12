@@ -30,7 +30,10 @@ The aim of this paper is to present a novel approach to the assessment of noise 
 summary: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere tellus ac convallis placerat. Proin tincidunt magna sed ex sollicitudin condimentum.
 
 tags:
-- Source Themes
+- Acoustics
+- Cities
+- Environment
+
 featured: false
 
 url_pdf: 'https://oa.upm.es/42409/'

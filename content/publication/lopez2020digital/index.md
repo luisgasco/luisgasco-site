@@ -29,7 +29,9 @@ abstract: "Presently, large cities have significant problems with noise pollutio
 # Summary. An optional shortened abstract.
 
 tags:
-- Source Themes
+- Acoustics
+- Signal processing
+  
 featured: false
 
 url_pdf: 'https://www.mdpi.com/1424-8220/20/3/605/pdf'

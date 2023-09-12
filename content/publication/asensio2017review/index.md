@@ -26,7 +26,10 @@ abstract: "It seems obvious that the noise levels in local communities surroundi
 # Summary. An optional shortened abstract.
 
 tags:
-- Source Themes
+- Acoustics
+- Environment
+- Airport
+
 featured: false
 
 url_pdf: 'https://link.springer.com/article/10.1007/s40726-017-0060-x'
