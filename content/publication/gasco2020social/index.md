@@ -30,7 +30,7 @@ summary: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere t
 
 tags:
 - Source Themes
-featured: false
+featured: true
 
 url_pdf: 'https://www.frontiersin.org/articles/10.3389/frsc.2020.00041/full'
 url_code: ''

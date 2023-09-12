@@ -23,8 +23,40 @@ sections:
  #         description: 100%
  #         icon: chart-line
  #         icon_pack: fas
-       
+
+  - block: portfolio
+    id: projects
+    content:
+      title: Projects
+      filters:
+        folders:
+          - project
+      # Default filter index (e.g. 0 corresponds to the first `filter_button` instance below).
+      default_button_index: 0
+      # Filter toolbar (optional).
+      # Add or remove as many filters (`filter_button` instances) as you like.
+      # To show all items, set `tag` to "*".
+      # To filter by a specific tag, set `tag` to an existing tag name.
+      # To remove the toolbar, delete the entire `filter_button` block.
+      buttons:
+        - name: All
+          tag: '*'
+        - name: Artificial Intelligence
+          tag: AI
+        - name: Annotation
+          tag: Annotation
+        - name: Library
+          tag: Library
+        - name: Other
+          tag: Other
+    design:
+      # Choose how many columns the section has. Valid values: '1' or '2'.
+      columns: '1'
+      # For Showcase view, flip alternate rows?
+      flip_alt_rows: false
+
   - block: experience
+    id: experience
     content:
       title: Experience
       # Date format for experience
@@ -43,12 +75,12 @@ sections:
           location: Barcelona, Spain
           date_start: '2020-10-01'
           date_end: ''
-          description: |2-
-              Responsibilities include:
-
-              * Analysing
-              * Modelling
-              * Deploying
+          description: |2-  
+            Worked within Martin Krallinger's research group with a primary focus on advancing the field of clinical Natural Language Processing (NLP) in the Spanish language. My work revolved around harnessing NLP systems to extract valuable biomedical insights from Electronic Health Records (EHRs) and emerging data sources, including online social networks. Key contributions and responsibilities included:
+              * Development of neural entity linking systems for the Spanish language. These systems were designed to link biomedical mentions extracted from NERs to ontologies such as SNOMED-CT, ICD-10 or HPO, among others.
+              * Played a key part in making Gold Standard datasets and creating clear rules for Named Entity Recognition (NER) and Entity Linking. This work helped make evaluation standards consistent in the field.
+              * Actively participated in organizing and publishing results in shared-task challenges conducted within esteemed international conferences and workshops such as COLING, NAACL, CLEF, SEPLN, BioASQ, SMM4H, and IberLEF. These platforms served as valuable venues for showcasing our advancements and collaborating with fellow experts in the field.
+              * Actively engaged in seeking research funding, which involved finding partners and writing grant proposals. This included applying for funding from European Union's Horizon Program and the Spanish government's PERTE initiative.
         - title: Lecturer
           company: Universidad Complutense de Madrid
           company_url: ''
@@ -56,7 +88,9 @@ sections:
           location: Madrid, Spain
           date_start: '2020-09-01'
           date_end: ''
-          description: Taught electronic engineering and researched semiconductor physics.
+          description: |2-
+              * Lecturer of the Text Mining and Social Networks modules in the Master Big Data and Business Analytics and the Master Data Science and Big Data of the Universidad Complutense de Madrid.
+              * More than 600 students have been taught the basics of NLP techniques including data preprocessing, document representation and, text classification and topic modeling strategies.
         - title: Data Scientist
           company: Atos Research and Development
           company_url: ''
@@ -109,7 +143,7 @@ sections:
   - block: accomplishments
     content:
       # Note: `&shy;` is used to add a 'soft' hyphen in a long heading.
-      title: 'Accomplish&shy;ments'
+      title: 'Grants & awards'
       subtitle:
       # Date format: https://wowchemy.com/docs/customization/#date-format
       date_format: Jan 2006
@@ -119,32 +153,100 @@ sections:
       #   Leave other parameters empty if not required.
       #   Begin multi-line descriptions with YAML's `|2-` multi-line prefix.
       items:
-        - certificate_url: https://www.coursera.org
+        - certificate_url: ''
           date_end: ''
-          date_start: '2021-01-25'
-          description: ''
-          organization: Coursera
-          organization_url: https://www.coursera.org
-          title: Neural Networks and Deep Learning
-          url: ''
-        - certificate_url: https://www.edx.org
+          date_start: '2021-11-01'
+          organization: Universidad Politécnica de Madrid
+          organization_url: https://www.upm.es/
+          title: Extraordinary Doctoral Thesis Award for the promotion of 2019-2020.
+          url: 'http://www.i2a2.upm.es/concedido-premio-extraordinario-tesis-doctoral-luis-gasco-sanchez/'
+        - certificate_url: ''
           date_end: ''
-          date_start: '2021-01-01'
-          description: Formulated informed blockchain models, hypotheses, and use cases.
-          organization: edX
-          organization_url: https://www.edx.org
-          title: Blockchain Fundamentals
-          url: https://www.edx.org/professional-certificate/uc-berkeleyx-blockchain-fundamentals
-        - certificate_url: https://www.datacamp.com
-          date_end: '2020-12-21'
-          date_start: '2020-07-01'
-          description: ''
-          organization: DataCamp
-          organization_url: https://www.datacamp.com
-          title: 'Object-Oriented Programming in R'
-          url: ''
+          date_start: '2019-06-18'
+          organization: "Sociedad Española de Acústica"
+          organization_url: https://www.sea-acustica.es/
+          title: Prize “Catedra Luis de Camoens UC3M” to the best scientific communication presented by a young researcher at Internoise 2019
+          url: http://www.sea-acustica.es/becas-y-premios/premios-andres-lara/
+        - certificate_url: ''
+          date_end: ''
+          date_start: '2018-03-16'
+          organization: "Universidad Politécnica de Madrid"
+          organization_url: https://www.upm.es/
+          title: Award to the best speaker in the 2nd Symsium “Cuentanos tu tesis”
+          url: https://eventos.upm.es/16404/files/ii-edicion-simposio-cuentanos-tu-tesis.html
+
+        - certificate_url: ''
+          date_end: ''
+          date_start: '2016-03-18'
+          organization: "EIT Digital"
+          organization_url: https://www.eitdigital.eu/
+          title: EIT Digital Doctoral School Grant
+
+        - certificate_url: ''
+          date_end: ''
+          date_start: '2019-06-18'
+          organization: "Sociedad Española de Acústica"
+          organization_url: https://www.sea-acustica.es/
+          title: Travel Grant for Young Acousticians for the congress Internoise 2019
+          url: http://www.sea-acustica.es/
+
+        - certificate_url: ''
+          date_end: ''
+          date_start: '2014-06-18'
+          organization: "Sociedad Española de Acústica"
+          organization_url: https://www.sea-acustica.es/
+          title: Travel Grant for Young Acousticians for the congress Tecniacústica 2014
+          url: http://www.sea-acustica.es/
+
+        
+        
+
+        
     design:
       columns: '2'
+   
+ # - block: collection
+ #   id: featured
+ #   content:
+ #     title: Featured Publications
+ #     filters:
+ #       folders:
+ #         - publication
+ #       featured_only: true
+ #   design:
+ #     columns: '2'
+ #     view: list
+  - block: collection
+    content:
+      title: Recent Publications
+      text: |-
+        {{% callout note %}}
+        Quickly discover relevant content by [filtering publications](./publication/).
+        {{% /callout %}}
+      filters:
+        folders:
+          - publication
+        exclude_featured: true
+    design:
+      columns: '2'
+      view: citation
+
+  - block: collection
+    id: talks
+    content:
+      title: Recent & Upcoming Talks
+      filters:
+        folders:
+          - event
+    design:
+      columns: '2'
+      view: compact
+  - block: tag_cloud
+    content:
+      title: Popular Topics
+    design:
+      columns: '2'
+
   - block: collection
     id: posts
     content:
@@ -172,84 +274,17 @@ sections:
       # Choose a layout view
       view: compact
       columns: '2'
-  - block: portfolio
-    id: projects
-    content:
-      title: Projects
-      filters:
-        folders:
-          - project
-      # Default filter index (e.g. 0 corresponds to the first `filter_button` instance below).
-      default_button_index: 0
-      # Filter toolbar (optional).
-      # Add or remove as many filters (`filter_button` instances) as you like.
-      # To show all items, set `tag` to "*".
-      # To filter by a specific tag, set `tag` to an existing tag name.
-      # To remove the toolbar, delete the entire `filter_button` block.
-      buttons:
-        - name: All
-          tag: '*'
-        - name: Artificial Intelligence
-          tag: AI
-        - name: Annotation
-          tag: Annotation
-        - name: Library
-          tag: Library
-        - name: Other
-          tag: Other
-    design:
-      # Choose how many columns the section has. Valid values: '1' or '2'.
-      columns: '1'
-      # For Showcase view, flip alternate rows?
-      flip_alt_rows: false
-  - block: markdown
-    content:
-      title: Gallery
-      subtitle: ''
-      text: |-
-        {{< gallery album="demo" >}}
-    design:
-      columns: '1'
-  - block: collection
-    id: featured
-    content:
-      title: Featured Publications
-      filters:
-        folders:
-          - publication
-        featured_only: true
-    design:
-      columns: '2'
-      view: card
-  - block: collection
-    content:
-      title: Recent Publications
-      text: |-
-        {{% callout note %}}
-        Quickly discover relevant content by [filtering publications](./publication/).
-        {{% /callout %}}
-      filters:
-        folders:
-          - publication
-        exclude_featured: true
-    design:
-      columns: '2'
-      view: citation
-  - block: collection
-    id: talks
-    content:
-      title: Recent & Upcoming Talks
-      filters:
-        folders:
-          - event
-    design:
-      columns: '2'
-      view: compact
-  - block: tag_cloud
-    content:
-      title: Popular Topics
-    design:
-      columns: '2'
+
+#  - block: markdown
+#    content:
+#      title: Gallery
+#      subtitle: ''
+#      text: |-
+#        {{< gallery album="demo" >}}
+#    design:
+#      columns: '1'
+
+
   - block: contact
     id: contact
     content:
@@ -258,33 +293,17 @@ sections:
       text: |-
         Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nam mi diam, venenatis ut magna et, vehicula efficitur enim.
       # Contact (add or remove contact options as necessary)
-      email: test@example.org
-      phone: 888 888 88 88
-      appointment_url: 'https://calendly.com'
-      address:
-        street: 450 Serra Mall
-        city: Stanford
-        region: CA
-        postcode: '94305'
-        country: United States
-        country_code: US
-      directions: Enter Building 1 and take the stairs to Office 200 on Floor 2
-      office_hours:
-        - 'Monday 10:00 to 13:00'
-        - 'Wednesday 09:00 to 10:00'
+      #appointment_url: 'https://calendly.com'
+
       contact_links:
         - icon: twitter
           icon_pack: fab
           name: DM Me
-          link: 'https://twitter.com/Twitter'
+          link: 'https://twitter.com/luisgasco'
         - icon: skype
           icon_pack: fab
           name: Skype Me
-          link: 'skype:echo123?call'
-        - icon: video
-          icon_pack: fas
-          name: Zoom Me
-          link: 'https://zoom.com'
+          link: 'skype:lgascosa?call'
       # Automatically link email and phone or display as text?
       autolink: true
       # Email form provider
@@ -294,7 +313,7 @@ sections:
           id:
         netlify:
           # Enable CAPTCHA challenge to reduce spam?
-          captcha: false
+          captcha: true
     design:
       columns: '2'
 ---

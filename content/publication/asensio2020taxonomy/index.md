@@ -35,7 +35,7 @@ abstract: "Many countries around the world have chosen lockdown and restrictions
 
 tags:
 - Source Themes
-featured: false
+featured: true
 
 url_pdf: 'https://www.mdpi.com/1660-4601/17/12/4205'
 url_code: ''

@@ -35,7 +35,7 @@ abstract: "There is a pressing need for advanced semantic annotation technologie
 
 tags:
 - Source Themes
-featured: false
+featured: true
 
 url_pdf: 'https://ceur-ws.org/Vol-3180/paper-11.pdf'
 url_code: ''

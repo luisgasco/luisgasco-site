@@ -32,7 +32,7 @@ abstract: "Recent advances in NLP techniques, the use of large language models a
 
 tags:
 - Source Themes
-featured: false
+featured: true
 
 url_pdf: 'https://www.dei.unipd.it/~faggioli/temp/CLEF2023-proceedings/paper-002.pdf'
 url_code: ''
