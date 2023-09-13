@@ -6,3 +6,7 @@ Ve a la ruta de la web
 Ejecuta Hugo Server
 
 
+Una vez instalado, para modificar offline, en powershell también:
+- cd .\Documents\luisgasco-site\
+- hugo server
+
