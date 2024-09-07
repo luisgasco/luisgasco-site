@@ -1,7 +1,7 @@
 ---
 # Leave the homepage title empty to use the site title
 title:
-date: 2023-09-06
+date: 2024-09-07
 type: landing
 
 sections:
@@ -67,20 +67,23 @@ sections:
       #   Required fields are `title`, `company`, and `date_start`.
       #   Leave `date_end` empty if it's your current employer.
       #   Begin multi-line descriptions with YAML's `|2-` multi-line prefix.
+      
       items:
-        - title: Research Engineer
-          company: Barcelona Supercomputing Center
-          company_url: 'https://bsc.es/'
-          company_logo: org-bsc
-          location: Barcelona, Spain
-          date_start: '2020-10-01'
+        - title: Senior Machine Learning Engineer
+          company: Avature
+          company_url: 'https://www.avature.net/avature-ai-recruiting-technology/'
+          company_logo: org-avature
+          location: Spain
+          date_start: '2024-02-05'
           date_end: ''
           description: |2-  
-            Worked within Martin Krallinger's research group with a primary focus on advancing the field of clinical Natural Language Processing (NLP) in the Spanish language. My work revolved around harnessing NLP systems to extract valuable biomedical insights from Electronic Health Records (EHRs) and emerging data sources, including online social networks. Key contributions and responsibilities included:
-              * Development of neural entity linking systems for the Spanish language. These systems were designed to link biomedical mentions extracted from NERs to ontologies such as SNOMED-CT, ICD-10 or HPO, among others.
-              * Played a key part in making Gold Standard datasets and creating clear rules for Named Entity Recognition (NER) and Entity Linking. This work helped make evaluation standards consistent in the field.
-              * Actively participated in organizing and publishing results in shared-task challenges conducted within esteemed international conferences and workshops such as COLING, NAACL, CLEF, SEPLN, BioASQ, SMM4H, and IberLEF. These platforms served as valuable venues for showcasing our advancements and collaborating with fellow experts in the field.
-              * Actively engaged in seeking research funding, which involved finding partners and writing grant proposals. This included applying for funding from European Union's Horizon Program and the Spanish government's PERTE initiative.
+            Working in the Machine Learning department at Avature, with a primary focus on developing multilingual Natural Language Processing (NLP) systems applied to Human Capital Management (HCM).
+            Key contributions and responsibilities include:
+              * Researching and developing advanced contextual entity linking (EL) systems to improve the extraction of key information from job descriptions, resumes, and HCM data. This research area focuses on exploring novel algorithms and methodologies to enhance the accuracy and efficiency of entity linking in multilingual and cross-industry contexts.
+              * Collaborating in the deployment of models into production environments, ensuring their scalability and performance within Avature’s platform.
+              * Developing methodologies for terminology enrichment, focused on expanding and refining controlled vocabularies to improve the accuracy and relevance of multilingual skill and competency representations.
+              * Actively organizing and presenting results in shared-task challenges, conferences, and industry events, collaborating with experts and showcasing our innovations within the NLP field to researchers and students. 
+
         - title: Lecturer
           company: Universidad Complutense de Madrid
           company_url: ''
@@ -91,6 +94,19 @@ sections:
           description: |2-
               * Lecturer of the Text Mining and Social Networks modules in the Master Big Data and Business Analytics and the Master Data Science and Big Data of the Universidad Complutense de Madrid.
               * More than 600 students have been taught the basics of NLP techniques including data preprocessing, document representation and, text classification and topic modeling strategies.
+        - title: Research Engineer
+          company: Barcelona Supercomputing Center
+          company_url: 'https://bsc.es/'
+          company_logo: org-bsc
+          location: Barcelona, Spain
+          date_start: '2020-10-01'
+          date_end: '2024-02-05'
+          description: |2-  
+            Worked within Martin Krallinger's research group with a primary focus on advancing the field of clinical Natural Language Processing (NLP) in the Spanish language. My work revolved around harnessing NLP systems to extract valuable biomedical insights from Electronic Health Records (EHRs) and emerging data sources, including online social networks. Key contributions and responsibilities included:
+              * Development of neural entity linking systems for the Spanish language. These systems were designed to link biomedical mentions extracted from NERs to ontologies such as SNOMED-CT, ICD-10 or HPO, among others.
+              * Played a key part in making Gold Standard datasets and creating clear rules for Named Entity Recognition (NER) and Entity Linking. This work helped make evaluation standards consistent in the field.
+              * Actively participated in organizing and publishing results in shared-task challenges conducted within esteemed international conferences and workshops such as COLING, NAACL, CLEF, SEPLN, BioASQ, SMM4H, and IberLEF. These platforms served as valuable venues for showcasing our advancements and collaborating with fellow experts in the field.
+              * Actively engaged in seeking research funding, which involved finding partners and writing grant proposals. This included applying for funding from European Union's Horizon Program and the Spanish government's PERTE initiative.
         - title: Data Scientist
           company: Atos Research and Development
           company_url: ''
