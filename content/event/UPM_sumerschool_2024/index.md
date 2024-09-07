@@ -6,7 +6,7 @@ event_url: https://eventos.upm.es/109710/detail/upm-international-summer-school-
 
 location: Madrid, Spain
 
-abstract: 'The presentation focused on the transition from academic research to industry, highlighting the use of AI to optimize Human Resources processes at Avature. I aimed to demonstrate how skills acquired during an academic career in fields such as NLP and ML can have practical and significant applications in the industry. Throughout the talk, I showcased the AI advancements currently being developed at Avature, emphasizing their impact on improving HR processes.'
+abstract: 'The presentation focused on the transition from academic research to industry, highlighting the use of AI to optimize Human Resources processes at Avature. I aimed to demonstrate how skills acquired during an academic career in fields such as NLP and ML can have practical and significant applications in the industry. Throughout the talk, I showcased the AI advancements currently being developed at Avature, emphasizing their impact on improving HR processes. '
 
 # Talk start and end times.
 #   End time can optionally be hidden by prefixing the line with `#`.
