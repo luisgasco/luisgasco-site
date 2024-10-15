@@ -2,7 +2,7 @@
 title: "Overview of distemist at bioasq: Automatic detection and normalization of diseases from clinical texts: results, methods, evaluation and multilingual resources"
 authors:
 -  Antonio Miranda-Escalada
--  ADmin
+-  Admin
 -  Salvador Lima-López
 -  Eulàlia Farré-Maduell
 -  Darryl Estrada
