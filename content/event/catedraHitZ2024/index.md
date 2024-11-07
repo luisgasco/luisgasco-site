@@ -14,7 +14,7 @@ abstract: |
 #   End time can optionally be hidden by prefixing the line with `#`.
 date: '2024-10-31T12:30:00Z'
 date_end: '2024-10-31T14:00:00Z'
-all_day: true
+all_day: false
 
 # Schedule page publish date (NOT talk date).
 

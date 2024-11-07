@@ -13,7 +13,7 @@ abstract: 'Nowadays, there is a growing concern for health and concepts such as 
 #   End time can optionally be hidden by prefixing the line with `#`.
 date: '2020-10-14T13:00:00Z'
 date_end: '2020-10-15T15:00:00Z'
-all_day: true
+all_day: false
 
 # Schedule page publish date (NOT talk date).
 #publishDate: '2017-01-01T00:00:00Z'
