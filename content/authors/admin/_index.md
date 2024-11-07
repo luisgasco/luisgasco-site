@@ -22,7 +22,7 @@ organizations:
     url: https://bsc.es/
 
 # Short bio (displayed in user profile at end of posts)
-bio: TODO
+bio: NLP, Information Extraction, NLU, LLM
 
 # Interests to show in About widget
 interests:
