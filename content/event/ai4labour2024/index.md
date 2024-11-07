@@ -3,9 +3,9 @@ title: "[Keynote] - AI Meets HR: Transforming Talent Management with NLP"
 
 
 event: AI And Data Analysis Seminar - AI4LABOUR
-event_url: https://ai4labour.com/wp-content/uploads/2024/11/13_672c6f23d0d27.pdf
+event_url: https://ai4labour.com/
 
-location: "Madrid, Spain"
+location: "Online, Europe"
 
 abstract: |
   I had the privilege of delivering the keynote talk at the AI4Labour project seminar, part of the Horizon 2020 MSCA-RISE European Project, which focuses on "Reshaping Labour Force Participation with Artificial Intelligence." In my presentation, I outlined Avature's strategic approach to innovate in the Human Resources area through Machine Learning, highlighting the advancements we've made to address evolving workforce needs. I discussed how our ML innovations are designed to enhance talent acquisition, optimize workforce participation, and enable companies to meet dynamic labor market demands.
