@@ -30,7 +30,7 @@ image:
 
 
 url_code: ''
-url_pdf: 'uploads/ai4labour2024/AI_and_DataAnalysis_Seminar_AI4LABOUR.pdf'
+url_pdf: 'uploads/AI_and_DataAnalysis_Seminar_AI4LABOUR.pdf'
 url_slides: ''
 url_video: ''
 
