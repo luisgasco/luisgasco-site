@@ -3,10 +3,6 @@ name: Updater (WIP)
 on:
   schedule:
     - cron: '0 0 * * 0'  # Scheduled to run weekly at midnight on Sunday
-  workflow_dispatch:     # Allows manual trigger from GitHub
-
-permissions:
-  contents: write
 
 jobs:
   update:
