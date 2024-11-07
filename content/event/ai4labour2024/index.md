@@ -1,5 +1,5 @@
 ---
-title: "AI Meets HR: Transforming Talent Management with NLP"
+title: "[Keynote] - AI Meets HR: Transforming Talent Management with NLP"
 
 
 event: AI And Data Analysis Seminar - AI4LABOUR
